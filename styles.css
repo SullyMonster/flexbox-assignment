@@ -69,7 +69,11 @@
 .box10 {
     width: 33.33%;
 }
-@media screen and (max-width:1020px){
+<<<<<<< HEAD
+
+=======
+@media screen and (max-width:1024px){
+>>>>>>> tablet
     
 }
 @media screen and (max-width:480px){
